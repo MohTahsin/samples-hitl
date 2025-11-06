@@ -16,4 +16,4 @@ This folder contains a series of tutorials covering the fundamental concepts of 
 | F6      | [Integrating Bedrock Guardrail](./06-guardrail-integration)                  | Integrate an Amazon Bedrock Guardrail to your agent                                                  |
 | F7      | [Adding memory to your agent](./07-memory-persistent-agents)                 | Personal assistant using memory and websearch tools                                                  |
 | F8      | [Observability and Evaluation](./08-observability-and-evaluation)            | Adding observability and evaluation to your agent                                                    |
-| F9      | [Human in the loop](./09-human-in-the-loop-agentcore)                        | Human in the loop for protected tools                                                    |
+| F9      | [Human in the loop](./09-human-in-the-loop-agentcore)                        | Human in the loop for protected tools with Agentcore                                                   |
